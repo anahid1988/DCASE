@@ -1,2 +1,2 @@
 # DCASE
-Master's Thesis and Dcase2017 Challenge
+This repository contains experiments on acoustic datasets provided by DCASE community.
